@@ -1,1 +1,1 @@
-feature1 code edit from master branch
+feature1 code edit done while merging manually
